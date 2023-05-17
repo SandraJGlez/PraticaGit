@@ -1,0 +1,1 @@
+Este repositorio es sólo una práctica del uso de Git y GitHub.
